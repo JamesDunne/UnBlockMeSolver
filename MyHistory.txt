@@ -1,0 +1,6 @@
+
+ms     | description
+--------------------------
+174622 | initial version
+173779 | reversed ranges
+1874   | removed legalMoves.Except(knownBoards) in favor of knownBoards.Contains() and knownBoards.Add().
